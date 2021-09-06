@@ -1,1 +1,1 @@
-new image bed
+这里都是Vue笔记的图片
